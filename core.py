@@ -1,6 +1,10 @@
+def checkin():
+	input("How old are ye? ")
+
 def is_interactive():
 	usr = input('Please input your name: ')
 	print(f"Welcome player {usr}!")
+	checkin()
 
 _itc = input("Go with interactive mode? Y/n : ")
 
@@ -12,3 +16,4 @@ else:
 	print("Aborting.")
 #added comment
 #added secondline comment
+#testing things from vscode
