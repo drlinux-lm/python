@@ -1,3 +1,4 @@
+# just a dummy python script to tinker around github
 def checkin():
 	input("How old are ye? ")
 
