@@ -1,12 +1,6 @@
 # Sandbox repo
 
+[Arcspeed Calculator](https://github.com/vajdao/pyproject/tree/master/arcspeed_calculator) : Useful for calculating arc speed for a specific deg/s
+
 Messing around with all the random testing stuff for Git/Github playground goes into this...
-
-
-_changing this to see git fetch behavior_
-_again_
-aaand again
-<br>
-break
-<br>
-new feature here
+Also, I figured out I'll need a "container" for all my little projects, so this is gonna be it.
