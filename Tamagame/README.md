@@ -14,3 +14,5 @@ Program accepts the following inputs which are also prompted interactively:
 * `x`: exit game
 * `Return (Enter key)`: continue to next stage or confirm the above inputs
 * `Ctrl + C`: interrupt the program
+
+Migrated from my [separate tamagame repo](https://github.com/vajdao/Tamagame) - which is now archived - to preserve activity history.
