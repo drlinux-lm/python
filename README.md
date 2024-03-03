@@ -7,7 +7,7 @@
 
 ## Future planned projects:
 * Leading system for tanks (where to aim lead crosshair on moving objects in order to hit)
-* Artillery strike arc system for SPGs
+* Artillery strike arc system for SPGs ([under development now](https://github.com/vajdao/pyproject/tree/master/ballistics))
 
 
 ### So far the historical description of this repo:
