@@ -1,8 +1,10 @@
-# Sandbox repo, also a collection of codes and ideas
+# Sandbox repo, also a collection of my random codes, games, ideas & problem solutions.
 
 * [Arcspeed Calculator](https://github.com/vajdao/pyproject/tree/master/arcspeed_calculator) : Useful for calculating arc speed for a specific deg/s at given ranges! Tank gamers gonna love this.
 
-* [Sudoku solver](https://github.com/vajdao/pyproject/tree/master/sudoku_solver) : Because why not? - Merged from my separate [sudoku solver](https://github.com/vajdao/sudoku_solver) repo for repo clarity.
+* [Sudoku solver](https://github.com/vajdao/pyproject/tree/master/sudoku_solver) : Because why not? - Migrated from my separate [sudoku solver](https://github.com/vajdao/sudoku_solver) repo for repo clarity.
+
+* [Tamagotchi's minigame](https://github.com/vajdao/pyproject/tree/master/Tamagame): Guessing game from tamagotchi minigame. Again, migrated from my separate [tamagame](https://github.com/vajdao/Tamagame) repo for clarity.
 
 
 ## Future planned projects:
