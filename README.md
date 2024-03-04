@@ -6,6 +6,8 @@
 
 * [Tamagotchi's minigame](https://github.com/vajdao/pyproject/tree/master/Tamagame): Guessing game from tamagotchi minigame. Again, migrated from my separate [tamagame](https://github.com/vajdao/Tamagame) repo for clarity.
 
+* [ROI calculator](https://github.com/vajdao/pyproject/tree/master/roi): Calculation of ROI.
+
 
 ## Future planned projects:
 * Leading system for tanks (where to aim lead crosshair on moving objects in order to hit)
