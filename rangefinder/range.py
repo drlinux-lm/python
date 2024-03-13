@@ -27,8 +27,8 @@ class Ranging:
             try:
                 self.height = float(input("Enter object height in meters: "))
                 self.mrads = float(input("Enter miliradians: "))
-                result = self.height / self.mrads
-                print("Distance:", self.distance(), "meters")
+                result = self.distance()
+                print("Distance:", result, "meters")
                 break
             except ValueError:
                 print("\nError: Please enter valid values.")

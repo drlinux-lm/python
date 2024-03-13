@@ -1,7 +1,8 @@
 import math
 import os
+import platform
 
-class CircleCalculator:
+class CircleCalculator():
     def __init__(self):
         self.radius = []
         self.circumferences = []
@@ -13,14 +14,22 @@ class CircleCalculator:
     def arcspeed(self, a, d):
         return (d / 360) * a
 
-    def clear(self):
-        os.system('clear')
+    @staticmethod
+    def oscheck():
+        os_name = platform.system()
+        if os_name == "Windows":
+            return "cls"
+        elif os_name in ("Linux", "Darwin"):
+            return "clear"
+        else:
+            return "Unknown OS"
 
     def main(self):
-        self.clear()
+        os_chk = self.oscheck()
+        os.system(os_chk)
         try:
             deg = int(input("Input the ˚/s: "))
-            self.clear()
+            os.system(os_chk)
             print(f"Speed is: {deg}˚/s\nFull circle: {360/deg} seconds.\n")
             howmany = int(input("How many ranges? "))
             for i in range(howmany):
@@ -31,7 +40,7 @@ class CircleCalculator:
                 arcspeed = self.arcspeed(circumference, deg)
                 self.arcspeeds.append(arcspeed)
         except KeyboardInterrupt:
-            self.clear()
+            os.system(os_chk)
             print("Sigterm by user")
 
         for i in range(len(self.radius)):
