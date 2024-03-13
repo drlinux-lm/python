@@ -8,6 +8,8 @@
 
 * [ROI calculator](https://github.com/vajdao/pyproject/tree/master/roi): Calculation of ROI.
 
+* [Rangefinder](https://github.com/vajdao/pyproject/tree/master/rangefinder): Calculation of range based by miliradians.
+
 
 ## Future planned projects:
 * Leading system for tanks (where to aim lead crosshair on moving objects in order to hit)
