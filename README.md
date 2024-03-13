@@ -10,6 +10,8 @@
 
 * [Rangefinder](https://github.com/vajdao/pyproject/tree/master/rangefinder): Calculation of range based by miliradians.
 
+* [Effective armor thickness](https://github.com/vajdao/pyproject/tree/master/armorthickness): Calculation of effective armor thickness based by angle.
+
 
 ## Future planned projects:
 * Leading system for tanks (where to aim lead crosshair on moving objects in order to hit)
