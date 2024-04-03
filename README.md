@@ -23,4 +23,4 @@ This repo started out as: "Messing around with all the random testing stuff for 
 
 But then I also figured out, that I'll need a "container" for all my projects to quickly throw in somewhere, so this repository gonna exactly serve that purpose.
 
-This project is an as-is, and it might get somewhere at some point ...at some time
+This project is an as-is, and it might get somewhere at some point ...at some time.
